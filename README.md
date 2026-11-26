@@ -1,4 +1,5 @@
 # B4EMA
+Predict the genetic disorders dataset of genomes.
 
 # INTEGRANTES
 
